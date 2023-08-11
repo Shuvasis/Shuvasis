@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/shuvasis" target="blank"><img src="https://img.shields.io/twitter/follow/shuvasis?logo=twitter&style=for-the-badge" alt="shuvasis" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Node JS, MongoDB, Express JS**
+- 🌱 I’m currently Working on NIC (Software Developer)
 
 - 💬 Ask me about **HTML, CSS. JavaScript, React JS, PHP, MySQL**
 
