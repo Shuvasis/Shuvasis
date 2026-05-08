@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/shuvasis" target="blank"><img src="https://img.shields.io/twitter/follow/shuvasis?logo=twitter&style=for-the-badge" alt="shuvasis" /></a> </p>
 
-- 🌱 I’m currently Working on NIC (Software Developer)
+- 🌱 I’m currently working on NIC (Software Developer)
 
 - 💬 Ask me about **HTML, CSS. JavaScript, React JS, PHP, MySQL**
 
@@ -27,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvasis&show_icons=true&locale=en" alt="shuvasis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvasis&" alt="shuvasis" /></p>
-
-please fix this repot 
