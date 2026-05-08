@@ -1,31 +1,112 @@
-<h1 align="center">Hi 👋, I'm Shuvasis Manna</h1>
+```md id="github-profile-readme"
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvasis&label=Profile%20views&color=0e75b6&style=flat" alt="shuvasis" /> </p>
+# Hi 👋, I'm Shuvasis Manna
 
-<p align="left"> <a href="https://twitter.com/shuvasis" target="blank"><img src="https://img.shields.io/twitter/follow/shuvasis?logo=twitter&style=for-the-badge" alt="shuvasis" /></a> </p>
+### 🚀 Software Developer | Laravel Developer | PHP Coordinator
 
-- 🌱 I’m currently Working on NIC (Software Developer)
+<img src="https://komarev.com/ghpvc/?username=shuvasis&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="shuvasis" />
 
-- 💬 Ask me about **HTML, CSS. JavaScript, React JS, PHP, MySQL**
+<br><br>
 
-- 📫 How to reach me **shuvasism@gmail.com**
+<a href="https://twitter.com/shuvasis" target="_blank">
+<img src="https://img.shields.io/twitter/follow/shuvasis?logo=twitter&style=for-the-badge" alt="twitter" />
+</a>
 
-- ⚡ Fun fact **I am funny**
+<a href="https://github.com/shuvasis" target="_blank">
+<img src="https://img.shields.io/github/followers/shuvasis?logo=github&style=for-the-badge" alt="github" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently working at **NIC** as a **Software Developer**
+- 💬 Ask me about **HTML, CSS, JavaScript, React JS, PHP, Laravel, MySQL, PostgreSQL**
+- 📫 Reach me at **shuvasism@gmail.com**
+- ⚡ Fun fact: **I love coding and making people smile 😄**
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://twitter.com/shuvasis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvasis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shuvasis-manna-641234b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvasis-manna-641234b1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shuvasism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shuvasism" height="30" width="40" /></a>
+<a href="https://twitter.com/shuvasis" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" width="45" />
+</a>
+
+<a href="https://linkedin.com/in/shuvasis-manna-641234b1" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="https://github.com/shuvasis" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+<a href="https://www.hackerrank.com/shuvasism" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvasis&show_icons=true&locale=en&layout=compact" alt="shuvasis" /></p>
+# 🚀 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvasis&show_icons=true&locale=en" alt="shuvasis" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvasis&" alt="shuvasis" /></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,php,laravel,nodejs,express,mysql,postgres,mongodb,git,github,vscode" />
 
-please fix this repot 
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shuvasis&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvasis&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvasis&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shuvasis&theme=algolia&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+# ✨ Quote of the Day
+
+<div align="center">
+
+> “First, solve the problem. Then, write the code.” – John Johnson
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile 💖
+
+</div>
+```
